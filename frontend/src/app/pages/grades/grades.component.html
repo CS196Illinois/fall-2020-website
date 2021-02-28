@@ -1,4 +1,6 @@
-<div class="staff">
+<p>grades works!</p>
+
+<div class="grades">
     <nav class="navbar navbar-expand navbar-light bg-light">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -12,16 +14,10 @@
               <a class="nav-link" [routerLink] = "['/resources']">Resources</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" [routerLink] = "['/grades']">Grades</a>
-            </li>
+                <a class="nav-link" [routerLink] = "['/staff']">Staff</a>
+              </li>
           </ul>
         </div>
       </nav>
-    <div class="title">Staff</div>
-    <div class="cards">
-        <div *ngFor="let person of staff" class="people">
-            <app-person name="{{person.name}}" bio="{{person.bio}}" picture="{{person.picture}}" class="people"></app-person>
-        </div>
-    </div>
 </div>
 
