@@ -1,0 +1,98 @@
+{
+    "attendance": [
+        {
+            "title": "Bash 1",
+            "grade": 100
+        },
+        {
+            "title": "Bash 2",
+            "grade": 100
+        },
+        {
+            "title": "Git 1",
+            "grade": 100
+        },
+        {
+            "title": "Git 2",
+            "grade": 100
+        },
+        {
+            "title": "Python 1",
+            "grade": 100
+        },
+        {
+            "title": "Python 2",
+            "grade": 100
+        }
+	],
+    "homework": [
+        {
+            "title": "Bash 1",
+            "grade": 100
+        },
+        {
+            "title": "Bash 2",
+            "grade": 100
+        },
+        {
+            "title": "Git 1",
+            "grade": 100
+        },
+        {
+            "title": "Git 2",
+            "grade": 100
+        },
+        {
+            "title": "Python 1",
+            "grade": 100
+        },
+        {
+            "title": "Python 2",
+            "grade": 100
+        }
+	],
+    "project": [
+        {
+            "title": "Sprint 0",
+            "grade": 100
+        },
+        {
+            "title": "Sprint 1",
+            "grade": 100
+        },
+        {
+            "title": "Sprint 2",
+            "grade": 100
+        },
+        {
+            "title": "Sprint 3",
+            "grade": 100
+        }
+	],
+    "extracredit": [
+        {
+            "title": "Bash 1",
+            "grade": 100
+        },
+        {
+            "title": "Bash 2",
+            "grade": 100
+        },
+        {
+            "title": "Git 1",
+            "grade": 100
+        },
+        {
+            "title": "Git 2",
+            "grade": 100
+        },
+        {
+            "title": "Python 1",
+            "grade": 100
+        },
+        {
+            "title": "Python 2",
+            "grade": 100
+        }
+	]
+}
